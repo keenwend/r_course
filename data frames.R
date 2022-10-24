@@ -5,7 +5,10 @@
 ?read.csv
 
 
-mydata <- read.csv('Evals.csv')
+setwd("D:/alex/r_course")
+getwd()
+
+mydata <- read.csv('D:/alex/r_course/evals.csv')
 
 
 # Summaries
