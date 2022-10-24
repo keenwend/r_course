@@ -5,7 +5,7 @@
 ?read.csv
 
 
-mydata <- read.csv('evals.csv')
+mydata <- read.csv('Evals.csv')
 
 
 # Summaries
